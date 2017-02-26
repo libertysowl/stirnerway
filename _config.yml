@@ -4,11 +4,11 @@ bio:                'Interfaz organica. Vortice mental. Sonido del caos.'
 description:        "Website de The Stirner Way."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/stinerway.png'
+logo:               'assets/img/stirnerway.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             es_AR
-url:                https://taylantatli.github.io/Moon
+url:                https://libertysowl.github.io/stirnerway/
 
 # Jekyll
 permalink:          /:title/
