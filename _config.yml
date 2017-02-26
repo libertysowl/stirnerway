@@ -1,14 +1,14 @@
 # Site
 title:              The Stirner Way
-bio:                'Interfaz organica. Vortice mental. Sonido del caos.'
-description:        "Website de The Stirner Way."
+bio:                'Interfaz orgánica. Vórtice mental. Sonido del caos.'
+description:        "Dasein Aurea & Reisz"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/stirnerway.png'
 background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             es_AR
-url:                https://libertysowl.github.io/stirnerway/
+url:                https://libertysowl.github.io/stirnerway
 
 # Jekyll
 permalink:          /:title/
